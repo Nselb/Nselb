@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Mateo
 
-<!--
-**Nselb/Nselb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused fullstack developer from Quito, Ecuador.
+I build APIs, real-time features and the Linux servers they run on.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend:** TypeScript, NestJS,PostgreSQL, REST, WebSockets
+- **Frontend:** Angular, React
+- **Infra:** Linux, Docker, Nginx, CI/CD
+- **Also:** C#/.NET, Go, Java
+
+## Currently building
+
+A multi-tenant delivery platform with live tracking (NestJS + Angular + PostGIS).
+
+## Contact
+
+[Linkedin](https://linkedin.com/in/mateo-alvear) · <mateo.alvear@gmail.com>
