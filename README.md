@@ -12,7 +12,7 @@ I build APIs, real-time features and the Linux servers they run on.
 
 ## Currently building
 
-A multi-tenant inventory management solution for small business (NestJS, Angular).
+A multi-tenant inventory management solution for small businesses (NestJS, Angular).
 
 ## Contact
 
